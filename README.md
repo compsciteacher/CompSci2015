@@ -2,7 +2,7 @@
 For Computer Science II
 
 ---------------------------------------------------
-GETTING STARTED
+GETTING STARTED<br/>
 Go to github.com
 Sign up, your username should be CSA-[initials] (notice the dash, use all three initials)
 Email should be school email
@@ -10,7 +10,7 @@ Go to my git hub [https://github.com/paradiselost79/CompSci2015]
 Click "watch" in the top right corner
 
 ---------------------------------------------------
-CONNECTING AIDE
+CONNECTING AIDE<br/>
 Go to AIDE
 Click on the Clone Repository on the left hand side
 Use the following address (notice the .git at the end): https://github.com/paradiselost79/CompSci2015.git
