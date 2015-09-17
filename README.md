@@ -16,5 +16,5 @@ From now on create projects in that folder
 Create a first project just with the default name (MyJavaConsoleApp) with your initials at the end (MyJavaConsoleAppHCD)
 On the left hand frame there is just a simple 'git' link. Click on that and choose the 'Push' option. It will make all projects go to my repository.
 ---------------------------------------------------
-PROJECTS
+PROJECTS<br/>
 All projects will be posted here. I will see when it is posted, any edits done to it, etc. Midterms and finals will not go here, only Projects. For midterms and finals you will be zipping your project folders so you can upload as one file.
