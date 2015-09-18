@@ -5,6 +5,7 @@ public class Main
 	public static void main(String[] args)
 	{
 		String name="Bob";
+		String date="September 18th 2015";
 		String loc="Chaparral Star Academy";
 		int age=9090900;
 		System.out.println(name);
