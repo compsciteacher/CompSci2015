@@ -5,6 +5,7 @@ public class Main
 	public static void main(String[] args)
 	{
 		String name="bob";
+		String date="September 18th 2015";
 		String loc="Chaparral Star Academy";
 		int age=9090900;
 		System.out.println(name);
@@ -18,8 +19,8 @@ public class Main
 		//System.out.println("hello method);
 		newName = "John";
 		newLoc = "Home";
-		newAge = "87979";
-		System.out.println("Hello "+newName+" you are at "+newLoc+" and "newAge);
+		newAge = 87979;
+		System.out.println("Hello "+newName+" you are at "+newLoc+" and "+newAge);
 		
 	}
 }
