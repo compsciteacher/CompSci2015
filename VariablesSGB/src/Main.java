@@ -13,7 +13,7 @@ public class Main
 		System.out.println(date);
 		System.out.println(age);
 		System.out.println(loc);
-		welcome(name);
+		//welcome(name);
 		
 	}
 	
