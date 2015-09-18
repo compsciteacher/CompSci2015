@@ -6,6 +6,7 @@ public class Main
 	{
 		String name="Reggie";
 		String loc="Chaparral Star Academy";
+		String date="September 11th";
 		int age=9090900;
 		System.out.println(name);
 		System.out.println(loc);
