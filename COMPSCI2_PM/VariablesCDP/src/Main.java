@@ -21,6 +21,7 @@ public class Main
 		newLoc = "Home";
 		newAge = 87979;
 		System.out.println("Hello "+newName+" you are at "+newLoc+" and "+newAge);
+		System.out.println(4.0/5.0);
 		
 	}
 }
