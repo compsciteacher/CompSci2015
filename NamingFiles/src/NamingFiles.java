@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class NamingFiles
 {
 	public static void main(String[] args)
 	{
